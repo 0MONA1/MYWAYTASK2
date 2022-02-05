@@ -34,10 +34,12 @@ img{
     background: rgb(60, 90, 95);
     border-radius: 15%;
     color: #fff;
+  display: inline-block;
     padding: 0.3em 1em;
+    margin: 1em;
 }
 .index__links a{
-
+    text-align: center;
     cursor: pointer;
 
 }
