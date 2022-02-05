@@ -31,13 +31,15 @@ img{
 
 /* Index page styling */
 .index__links{
-    border: 2px solid red;
     background: rgb(60, 90, 95);
+    border-radius: 15%;
     color: #fff;
+    padding: 0.3em 1em;
 }
 .index__links a{
     display: inline-block;
     cursor: pointer;
+    
 }
 
 
